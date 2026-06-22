@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopNow — Full-Stack E-Commerce Web Application
 
 A complete online store with product catalog, cart, checkout, order tracking, and role-based admin management.
@@ -209,3 +210,6 @@ All endpoints are prefixed with `/api`.
 - **Database**: MongoDB Atlas free tier is the easiest path for both dev and small production deployments.
 
 Remember to update `CLIENT_URL` (backend) and `REACT_APP_API_URL` (frontend) to your deployed URLs.
+=======
+# ecommerce-app
+>>>>>>> 711c3d7333ceed6a6c56591cdde3c0b291242d2b
